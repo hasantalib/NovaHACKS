@@ -1,4 +1,4 @@
-# CareerCanvas
+# CareerCompass
 
 An interactive career exploration platform that guides users through personalized career discovery using AI-powered recommendations and engaging user experiences.
 
